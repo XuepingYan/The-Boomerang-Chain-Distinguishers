@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61183D87-2A27-492E-85AC-EED09A12D17D}|boomerang chain\\boomerang chain.vcxproj|E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\boomerang chain\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61183D87-2A27-492E-85AC-EED09A12D17D}|boomerang chain\\boomerang chain.vcxproj|solutionrelative:boomerang chain\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\truncated boomerang \u4EE3\u7801\\boomerang6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\\u66FE\u65B0\u7693\u4E2D\u95F4\u6982\u7387\u8BA1\u7B97\\\u4E2D\u95F4\u6982\u7387-v4 - random diff-v4\\\u4E2D\u95F4\u6982\u7387\\\u4E2D\u95F4\u6982\u7387.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61183D87-2A27-492E-85AC-EED09A12D17D}|boomerang chain\\boomerang chain.vcxproj|E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\boomerang chain\\MultTables.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61183D87-2A27-492E-85AC-EED09A12D17D}|boomerang chain\\boomerang chain.vcxproj|solutionrelative:boomerang chain\\MultTables.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\boomerang chain\\FileName.cpp",
+              "RelativeDocumentMoniker": "boomerang chain\\FileName.cpp",
+              "ToolTip": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\boomerang chain\\FileName.cpp",
+              "RelativeToolTip": "boomerang chain\\FileName.cpp",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAAAkBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T07:47:21.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "boomerang6.c",
+              "DocumentMoniker": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\truncated boomerang \u4EE3\u7801\\boomerang6.c",
+              "RelativeDocumentMoniker": "..\\truncated boomerang \u4EE3\u7801\\boomerang6.c",
+              "ToolTip": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\truncated boomerang \u4EE3\u7801\\boomerang6.c",
+              "RelativeToolTip": "..\\truncated boomerang \u4EE3\u7801\\boomerang6.c",
+              "ViewState": "AQIAAPcAAAAAAAAAAIA4wAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-25T01:04:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u4E2D\u95F4\u6982\u7387.cpp",
+              "DocumentMoniker": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\\u66FE\u65B0\u7693\u4E2D\u95F4\u6982\u7387\u8BA1\u7B97\\\u4E2D\u95F4\u6982\u7387-v4 - random diff-v4\\\u4E2D\u95F4\u6982\u7387\\\u4E2D\u95F4\u6982\u7387.cpp",
+              "RelativeDocumentMoniker": "..\\\u66FE\u65B0\u7693\u4E2D\u95F4\u6982\u7387\u8BA1\u7B97\\\u4E2D\u95F4\u6982\u7387-v4 - random diff-v4\\\u4E2D\u95F4\u6982\u7387\\\u4E2D\u95F4\u6982\u7387.cpp",
+              "ToolTip": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\\u66FE\u65B0\u7693\u4E2D\u95F4\u6982\u7387\u8BA1\u7B97\\\u4E2D\u95F4\u6982\u7387-v4 - random diff-v4\\\u4E2D\u95F4\u6982\u7387\\\u4E2D\u95F4\u6982\u7387.cpp",
+              "RelativeToolTip": "..\\\u66FE\u65B0\u7693\u4E2D\u95F4\u6982\u7387\u8BA1\u7B97\\\u4E2D\u95F4\u6982\u7387-v4 - random diff-v4\\\u4E2D\u95F4\u6982\u7387\\\u4E2D\u95F4\u6982\u7387.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAEQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T02:16:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultTables.c",
+              "DocumentMoniker": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\boomerang chain\\MultTables.c",
+              "RelativeDocumentMoniker": "boomerang chain\\MultTables.c",
+              "ToolTip": "E:\\\u6728\u6728\u6728\\AES\u5B9E\u9A8C\\boomerang chain\\boomerang chain\\MultTables.c",
+              "RelativeToolTip": "boomerang chain\\MultTables.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-19T01:12:42.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
